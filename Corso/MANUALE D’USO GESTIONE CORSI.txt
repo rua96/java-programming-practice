@@ -1,0 +1,47 @@
+MANUALE D’USO GESTIONE CORSI 
+All'avvio del programma viene visualizzato il menu principale.
+Viene chiesto di premere un numero da 1 a 5 a seconda dell’opzione che si vuole eseguire:
+1 per aggiungere un nuovo corso;
+2 per visualizzare tutte le informazioni dei corsi presenti;
+3 per visualizzare il nome di tutti i corsi presenti con il proprio prezzo;
+4 per eliminare un corso presente;
+5 per uscire dal programma.
+
+Se viene premuto 1 si va all’aggiunta di un nuovo corso:
+Una volta premuto 1, verrà chiesto di aggiungere in successione nome corso, descrizione corso, numero ore corso (in ore), costo corso (in euro).
+Una volta effettuata questa operazione, il corso verrà inserito all’interno del gestionale, e il programma confermerà l’avvenuto inserimento.
+
+Se viene premuto 2 si va alla visualizzazione tutte le informazioni dei corsi presenti:
+Se ci sono corsi presenti, verranno visualizzati in successione tutti i corsi presenti;
+per ognuno verrà visualizzato: Numero corso - Codice corso - Nome corso – Descrizione corso - Durata corso – Costo corso.
+I corsi saranno numerati in ordine di inserimento.
+Se non ci sono corsi presenti, verrà visualizzata la scritta:
+“Nessun corso presente!”
+
+Se viene premuto 3 si va alla visualizzazione dei nomi di tutti i corsi presenti con il proprio prezzo:
+Se ci sono corsi presenti, verranno visualizzati in successione tutti i corsi presenti;
+per ognuno verrà visualizzato: Numero corso – Nome corso - Costo corso.
+I corsi saranno numerati in ordine di inserimento.
+Se non ci sono corsi presenti, verrà visualizzata la scritta:
+“Nessun corso presente!”
+
+Se viene premuto 4 si va all’eliminare di un corso presente;
+Se ci sono corsi presenti, verranno visualizzati in tutti successione e verrà chiesto di inserire il numero al quale corrisponde il corso da eliminare.
+Una volta selezionato il numero, verrà cancellato quel corso e apparirà la scritta:
+“Corso eliminato con successo”.
+Se si inserisce un numero diverso da quelli disponibili, apparirà la scritta: 
+"Scelta non valida. Ritorno al Menu Principale".
+ Se non ci sono corsi presenti, verrà visualizzata la scritta:
+“Nessun corso presente!”
+
+Se viene premuto 5 si esce dal programma:
+ Verrà visualizzata dall’utente una frase che avviserà:
+" Uscita dal Calendario . . ."
+
+Se viene inserito un numero diverso da quelli proposti, apparirà la scritta:
+"Scelta non valida!".
+Ogni qualvolta si effettua una operazione, si ritorna al menu principale.
+
+
+
+
