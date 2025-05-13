@@ -1,0 +1,21 @@
+Crea un programma in Java che permetta a una scuola di gestire i corsi serali.
+
+Il programma deve consentire di:
+
+Aggiungere un nuovo corso, inserendo:
+
+Nome del corso
+
+Descrizione
+
+Durata (in ore)
+
+Costo (in euro)
+
+Visualizzare l’elenco dei corsi inseriti, mostrando tutte le informazioni
+
+Visualizzare solo nome e costo di ciascun corso
+
+Eliminare un corso esistente
+
+Uscire dal programma
